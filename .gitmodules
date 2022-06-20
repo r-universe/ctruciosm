@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "HierPortfolios"]
+	path = HierPortfolios
+	url = https://github.com/ctruciosm/hierportfolios
+	shallow = true
+	registered = true
