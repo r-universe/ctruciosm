@@ -18,3 +18,8 @@
 	url = https://github.com/ctruciosm/robgarchboot
 	shallow = true
 	registered = true
+[submodule "StatPerMeCo"]
+	path = StatPerMeCo
+	url = https://github.com/cran/StatPerMeCo
+	shallow = true
+	registered = true
