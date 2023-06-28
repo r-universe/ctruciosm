@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "HierPortfolios"]
 	path = HierPortfolios
 	url = https://github.com/ctruciosm/hierportfolios
-	shallow = true
-	registered = true
 [submodule "RM2006"]
 	path = RM2006
 	url = https://github.com/ctruciosm/rm2006
-	shallow = true
-	registered = true
 [submodule "RobGARCHBoot"]
 	path = RobGARCHBoot
 	url = https://github.com/ctruciosm/robgarchboot
-	shallow = true
-	registered = true
 [submodule "StatPerMeCo"]
 	path = StatPerMeCo
 	url = https://github.com/cran/StatPerMeCo
-	shallow = true
-	registered = true
